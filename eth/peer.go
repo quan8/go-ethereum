@@ -24,11 +24,11 @@ import (
 	"time"
 
 	mapset "github.com/deckarep/golang-set"
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/forkid"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/p2p"
-	"github.com/ethereum/go-ethereum/rlp"
+	"github.com/quan8/go-ethereum/common"
+	"github.com/quan8/go-ethereum/core/forkid"
+	"github.com/quan8/go-ethereum/core/types"
+	"github.com/quan8/go-ethereum/p2p"
+	"github.com/quan8/go-ethereum/rlp"
 )
 
 var (

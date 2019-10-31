@@ -24,8 +24,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common/mclock"
-	"github.com/ethereum/go-ethereum/light"
+	"github.com/quan8/go-ethereum/common/mclock"
+	"github.com/quan8/go-ethereum/light"
 )
 
 var (

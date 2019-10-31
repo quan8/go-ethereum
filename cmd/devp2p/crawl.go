@@ -19,9 +19,9 @@ package main
 import (
 	"time"
 
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/p2p/discover"
-	"github.com/ethereum/go-ethereum/p2p/enode"
+	"github.com/quan8/go-ethereum/log"
+	"github.com/quan8/go-ethereum/p2p/discover"
+	"github.com/quan8/go-ethereum/p2p/enode"
 )
 
 type crawler struct {

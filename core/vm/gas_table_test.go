@@ -21,11 +21,11 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/common/hexutil"
-	"github.com/ethereum/go-ethereum/core/rawdb"
-	"github.com/ethereum/go-ethereum/core/state"
-	"github.com/ethereum/go-ethereum/params"
+	"github.com/quan8/go-ethereum/common"
+	"github.com/quan8/go-ethereum/common/hexutil"
+	"github.com/quan8/go-ethereum/core/rawdb"
+	"github.com/quan8/go-ethereum/core/state"
+	"github.com/quan8/go-ethereum/params"
 )
 
 func TestMemoryGasCost(t *testing.T) {

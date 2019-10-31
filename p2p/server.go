@@ -29,17 +29,17 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/common/mclock"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/event"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/p2p/discover"
-	"github.com/ethereum/go-ethereum/p2p/discv5"
-	"github.com/ethereum/go-ethereum/p2p/enode"
-	"github.com/ethereum/go-ethereum/p2p/enr"
-	"github.com/ethereum/go-ethereum/p2p/nat"
-	"github.com/ethereum/go-ethereum/p2p/netutil"
+	"github.com/quan8/go-ethereum/common"
+	"github.com/quan8/go-ethereum/common/mclock"
+	"github.com/quan8/go-ethereum/crypto"
+	"github.com/quan8/go-ethereum/event"
+	"github.com/quan8/go-ethereum/log"
+	"github.com/quan8/go-ethereum/p2p/discover"
+	"github.com/quan8/go-ethereum/p2p/discv5"
+	"github.com/quan8/go-ethereum/p2p/enode"
+	"github.com/quan8/go-ethereum/p2p/enr"
+	"github.com/quan8/go-ethereum/p2p/nat"
+	"github.com/quan8/go-ethereum/p2p/netutil"
 )
 
 const (
